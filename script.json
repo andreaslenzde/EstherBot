@@ -1,6 +1,6 @@
 {
     "BOT": "Hallo!\nIch bin der persönliche Bot von Andreas Lenz, einem Senior Marketing Manager aus dem Grossraum Stuttgart. Sagen Sie HALLO %[HALLO] (postback :twitter)\n!\",
-    "HALLO": "Hey, I'm so glad you set EstherBot up! Do you want to tell Esther that you're talking to her bot? %[Tell her](postback:twitter)",
+    "HALLO": "Herzlich willkommen %[Tell her](postback:twitter)",
     "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
